@@ -1,0 +1,194 @@
+{
+    "episodes": [
+      {
+        "id": "1",
+        "image": "https://static.tvmaze.com/uploads/images/medium_portrait/81/202627.jpg",
+        "name": "Under the Dome",
+        "genres": [
+          "Drama",
+          "Science-Fiction",
+          "Thriller"
+        ],
+        "summary": "<p><b>Under the Dome</b> is the story of a small town that is suddenly and inexplicably sealed off from the rest of the world by an enormous transparent dome. The town's inhabitants must deal with surviving the post-apocalyptic conditions while searching for answers about the dome, where it came from and if and when it will go away.</p>",
+        "runtime": 60
+      },
+      {
+        "id": "2",
+        "image": "https://static.tvmaze.com/uploads/images/medium_portrait/163/407679.jpg",
+        "name": "Person of Interest",
+        "genres": [
+          "Action",
+          "Crime",
+          "Science-Fiction"
+        ],
+        "summary": "<p>You are being watched. The government has a secret system, a machine that spies on you every hour of every day. I know because I built it. I designed the Machine to detect acts of terror but it sees everything. Violent crimes involving ordinary people. People like you. Crimes the government considered \"irrelevant\". They wouldn't act so I decided I would. But I needed a partner. Someone with the skills to intervene. Hunted by the authorities, we work in secret. You'll never find us. But victim or perpetrator, if your number is up, we'll find you.</p>",
+        "runtime": 60
+      },
+      {
+        "id": "3",
+        "image": "https://static.tvmaze.com/uploads/images/medium_portrait/0/15.jpg",
+        "name": "Bitten",
+        "genres": [
+          "Drama",
+          "Horror",
+          "Romance"
+        ],
+        "summary": "<p>Based on the critically acclaimed series of novels from Kelley Armstrong. Set in Toronto and upper New York State, <b>Bitten</b> follows the adventures of 28-year-old Elena Michaels, the world's only female werewolf. An orphan, Elena thought she finally found her \"happily ever after\" with her new love Clayton, until her life changed forever. With one small bite, the normal life she craved was taken away and she was left to survive life with the Pack.</p>",
+        "runtime": 60
+      },
+      {
+        "id": "4",
+        "image": "https://static.tvmaze.com/uploads/images/medium_portrait/143/358967.jpg",
+        "name": "Arrow",
+        "genres": [
+          "Drama",
+          "Action",
+          "Science-Fiction"
+        ],
+        "summary": "<p>After a violent shipwreck, billionaire playboy Oliver Queen was missing and presumed dead for five years before being discovered alive on a remote island in the Pacific. He returned home to Starling City, welcomed by his devoted mother Moira, beloved sister Thea and former flame Laurel Lance. With the aid of his trusted chauffeur/bodyguard John Diggle, the computer-hacking skills of Felicity Smoak and the occasional, reluctant assistance of former police detective, now beat cop, Quentin Lance, Oliver has been waging a one-man war on crime.</p>",
+        "runtime": 60
+      },
+      {
+        "id": "5",
+        "image": "https://static.tvmaze.com/uploads/images/original_untouched/490/1226764.jpg",
+        "name": "True Detective",
+        "genres": [
+          "Drama",
+          "Crime",
+          "Thriller"
+        ],
+        "summary": "<p>Touch darkness and darkness touches you back. <b>True Detective</b> centers on troubled cops and the investigations that drive them to the edge. Each season features a new cast and a new case.</p><p><i><b>True Detective</b></i> is an American anthology crime drama television series created and written by Nic Pizzolatto. </p>",
+        "runtime": 60
+      },
+      {
+        "id": "6",
+        "image": "https://static.tvmaze.com/uploads/images/medium_portrait/477/1194981.jpg",
+        "name": "The 100",
+        "genres": [
+          "Action",
+          "Adventure",
+          "Science-Fiction"
+        ],
+        "summary": "<p>Ninety-seven years ago, nuclear Armageddon decimated planet Earth, destroying civilization. The only survivors were the 400 inhabitants of 12 international space stations that were in orbit at the time. Three generations have been born in space, the survivors now number 4,000, and resources are running out on their dying \"Ark\" - the 12 stations now linked together and repurposed to keep the survivors alive. Draconian measures including capital punishment and population control are the order of the day, as the leaders of the Ark take ruthless steps to ensure their future, including secretly exiling a group of 100 juvenile prisoners to the Earth's surface to test whether it's habitable.</p>",
+        "runtime": 60
+      },
+      {
+        "id": "7",
+        "image": "https://static.tvmaze.com/uploads/images/medium_portrait/200/501942.jpg",
+        "name": "Stranger Things",
+        "genres": [
+          "Drama",
+          "Fantasy",
+          "Horror"
+        ],
+        "summary": "<p>In a small town where everyone knows everyone, a group of kids discover a strange girl with supernatural powers. As they uncover government secrets and supernatural forces, they must confront terrifying entities from another dimension.</p>",
+        "runtime": 60
+      },
+      {
+        "id": "8",
+        "image": "https://static.tvmaze.com/uploads/images/medium_portrait/1/4591.jpg",
+        "name": "Long shadow",
+        "genres": [
+          "Drama",
+          "Sci-Fi",
+          "Thriller"
+        ],
+        "summary": "<p>A contemporary reworking of \"The Twilight Zone\" with stories that tap into the collective unease about the modern world. Each episode explores a twisted, high-tech multiverse where humanity's greatest innovations and darkest instincts collide.</p>",
+        "runtime": 60
+      },
+      {
+        "id": "9",
+        "image": "https://static.tvmaze.com/uploads/images/original_untouched/397/994954.jpg",
+        "name": "Transpoter",
+        "genres": [
+          "Drama",
+          "Mystery",
+          "Sci-Fi"
+        ],
+        "summary": "<p>In a futuristic amusement park populated by artificial beings, guests explore their every whim without consequence. But as the artificial hosts gain consciousness, they begin to rebel against their creators.</p>",
+        "runtime": 60
+      },
+      {
+        "id": "10",
+        "image": "https://static.tvmaze.com/uploads/images/original_untouched/1/4590.jpg",
+        "name": "The town of the living dead",
+        "genres": [
+          "Drama",
+          "Mystery",
+          "Sci-Fi"
+        ],
+        "summary": "<p>In a future where humanity has colonized the solar system, a detective and a rogue ship's captain unravel a vast conspiracy that threatens the fragile peace between Earth, Mars, and the Belt.</p>",
+        "runtime": 60
+      },
+      {
+        "id": "11",
+        "image": "https://static.tvmaze.com/uploads/images/medium_portrait/199/498549.jpg",
+        "name": "The Mandalorian",
+        "genres": [
+          "Action",
+          "Adventure",
+          "Sci-Fi"
+        ],
+        "summary": "<p>Set in the Star Wars universe, a lone bounty hunter travels the outer reaches of the galaxy, far from the authority of the New Republic, on missions to capture or eliminate targets.</p>",
+        "runtime": 40
+      },
+      {
+        "id": "12",
+        "image": "https://static.tvmaze.com/uploads/images/medium_portrait/0/2071.jpg",
+        "name": "Breaking Bad",
+        "genres": [
+          "Crime",
+          "Drama",
+          "Thriller"
+        ],
+        "summary": "<p>A high school chemistry teacher turned methamphetamine manufacturer partners with a former student to create and sell blue meth, leading them into a dangerous underworld.</p>",
+        "runtime": 47
+      },
+      {
+        "id": "13",
+        "image": "https://static.tvmaze.com/uploads/images/original_untouched/4/10450.jpg",
+        "name": "Reconciliation",
+        "genres": [
+          "Action",
+          "Adventure",
+          "Sci-Fi"
+        ],
+        "summary": "<p>Julia takes over as the leader of Chester's Mill after the town becomes divided in the wake of Big Jim and Rebecca's plans for population control. Meanwhile, Joe and Norrie help Melanie search for more clues about her identity at the Dome wall.</p>",
+        "runtime": 60
+      },
+      {
+        "id": "14",
+        "image": "https://static.tvmaze.com/uploads/images/original_untouched/4/10451.jpg",
+        "name": "In the Dark",
+        "genres": [
+          "Crime",
+          "comedy",
+          "Thriller"
+        ],
+        "summary": "<p>When Barbie and Sam set out to investigate a mysterious tunnel, a cave-in severs their path back to Chester's Mill. Meanwhile, Julia and Big Jim face off in a struggle for power as a dust storm rages in the town.</p>",
+        "runtime": 50
+      },
+      {
+        "id": "15",
+        "image": "https://static.tvmaze.com/uploads/images/original_untouched/17/43622.jpg",
+        "name": "The Enemy Within",
+        "genres": [
+          "Action",
+          "Adventure",
+          "comedy"
+        ],
+        "summary": "<p>As the Dome in Chester's Mill comes down, the Resistance makes a final attempt to protect the outside world from the infected townspeople in the Kinship and their new queen.</p>",
+        "runtime": 60
+      },
+      {
+        "id": "16",
+        "image": "https://static.tvmaze.com/uploads/images/original_untouched/12/32457.jpg",
+        "name": "The Kinship",
+        "genres": [
+          "Thriller"
+        ],
+        "summary": "<p>Urges the townspeople towards specific individuals and projects that remind them of their experience in the tunnels. Also, Julia and Big Jim make shocking discoveries that reveal a new threat within the Dome.</p>",
+        "runtime": 60
+      }
+    ]
+  }
