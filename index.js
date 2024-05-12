@@ -1,21 +1,14 @@
 const express = require('express');
 const app = express();
-const path = require('path');
+const port = process.env.PORT || 4000; // Set the default port to 4000
 
-// Serve db.json file
-app.get('/data', (req, res) => {
-  res.sendFile(path.join(__dirname, 'db.json'));
-});
-
-// Serve db.json file when users access the root URL
 app.get('/', (req, res) => {
-  res.sendFile(path.join(__dirname, 'db.json'));
+  res.send('Hello World!');
 });
 
-// Define a port to listen on
-const PORT = process.env.PORT || 3000;
-app.listen(PORT, '0.0.0.0', () => {
-  console.log(`Server is running on port ${PORT}`);
+app.listen(port, () => {
+  console.log(`Server is running on port ${port}`);
 });
+
 
 
