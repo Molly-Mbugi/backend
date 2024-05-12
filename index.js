@@ -1,8 +1,15 @@
+
+
 const express = require('express');
 const fs = require('fs');
 const path = require('path');
 const app = express();
 const port = process.env.PORT || 3000; // Change the port if needed
+
+// Define a route handler for the root path
+app.get('/', (req, res) => {
+  res.send('Welcome to the API server!');
+});
 
 // Define a route handler to serve db.json
 app.get('/data', (req, res) => {
@@ -35,4 +42,3 @@ app.get('/episodes', (req, res) => {
 app.listen(port, () => {
   console.log(`Server is running on port ${port}`);
 });
-
