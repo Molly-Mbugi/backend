@@ -1,10 +1,12 @@
-
-
 const express = require('express');
+const cors = require('cors'); // Import the cors module
 const fs = require('fs');
 const path = require('path');
 const app = express();
-const port = process.env.PORT || 3000; // Change the port if needed
+const port = process.env.PORT || 3000;
+
+// Use CORS middleware
+app.use(cors());
 
 // Define a route handler for the root path
 app.get('/', (req, res) => {
